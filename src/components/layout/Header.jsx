@@ -6,9 +6,9 @@ const Header = () => {
       <h1>Study Diary</h1>
       <nav>
         <NavLink to="/">Dashboard</NavLink>
-        <NavLink to="/diary">Diary</NavLink>
-        <NavLink to="/calendar">Calendar</NavLink>
-        <NavLink to="/summary">Summary</NavLink>
+        <NavLink to="/diary">Diário</NavLink>
+        <NavLink to="/calendar">Calendário</NavLink>
+        <NavLink to="/summary">Resumo</NavLink>
       </nav>
     </header>
   )
